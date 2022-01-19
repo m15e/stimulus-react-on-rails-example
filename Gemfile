@@ -66,3 +66,6 @@ group :test do
 end
 
 gem "react_on_rails", "~> 12.5"
+gem "mini_racer", platforms: :ruby
+
+gem "foreman", "~> 0.87.2"
